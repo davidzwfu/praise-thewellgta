@@ -1,5 +1,5 @@
 # praise-thewellgta
-Web app for managing availability and scheduling of team members. Also provide a shared database for uploading/downloading files.
+Web app (built with React, MySQL, PHP) for managing availability and scheduling of team members. Also provide a shared database for uploading/downloading files.
 
 ![image](https://user-images.githubusercontent.com/69821833/199496230-b926db08-752c-42f8-97c4-42630eadccaa.png)
 
